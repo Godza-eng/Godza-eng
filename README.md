@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning: Most used languages such as c# javascript html css python flutter etc
 - 💞️ I’m looking to collaborate on: anything that allows me to develop and improve
 - 📫 How to reach me: through my gmail (fawadn323@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: coding is like a hobby to me its something that i didnt find hard to learn and i just liked it the moment i started
 
 <!---
